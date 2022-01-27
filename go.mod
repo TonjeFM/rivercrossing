@@ -1,5 +1,3 @@
-module github.com/Kaduhuy/rc1-verden
+module github.com/tonjfm/rivercrossing
 
 go 1.17
-
-require github.com/digitnow/rivercrossing v0.3.0
